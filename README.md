@@ -6,6 +6,3 @@ A project by dgirard.
 
 Instructions coming soon.
 
-## License
-
-MIT
